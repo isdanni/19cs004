@@ -1,0 +1,8 @@
+816f45d72a207a08d20c9c6dc90d5eb63bd15fce		branch 'DavidVorick-patch-1' of https://github.com/NebulousLabs/fastrand
+8a6d54683f4fafcde124eadad9b0910b2682745b		branch 'better-threading' of https://github.com/NebulousLabs/fastrand
+2eed5df250e4b3fec36ca32c3751e6647290dd8c		branch 'buffer' of https://github.com/NebulousLabs/fastrand
+973e9e14ced2b8fa450a593e2f7618b19f707da3		branch 'fair-benchmarks' of https://github.com/NebulousLabs/fastrand
+6fb6489aac4eae79e3f8112c21708191a7a90dd7		branch 'master' of https://github.com/NebulousLabs/fastrand
+b16767f2b2ea6e7a9c2d158bd32f04c5a39e79ab		branch 'readme' of https://github.com/NebulousLabs/fastrand
+855fe3d79a7ac165991be5d26302c053dd6fbb27		branch 'safe-reseed' of https://github.com/NebulousLabs/fastrand
+0b04686319d87bed6697673757d3dffd206aec1f		branch 'uint64' of https://github.com/NebulousLabs/fastrand
