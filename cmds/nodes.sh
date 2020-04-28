@@ -10,16 +10,18 @@ max=50
 set -- # this sets $@ [the argv array] to an empty list.
 while [ "$n" -le "$max" ]; do
     set -- "$@" "s$n" # this adds s$n to the end of $@
+    echo "next..."
     n=$(( $n + 1 ));
 done
 mkdir "$@"
 
-echo "Node Folderd Created!"
+echo "Node Folder Created!"
 
-# Waits 5 seconds
+echo "Waiting..."
+
+# Wait 5 seconds
 sleep 2
 
-# Create a OK sign
 cd $GOPATH
 cd dev
 
@@ -29,5 +31,4 @@ do
 done
 
 echo "Node setup done!"
-
 

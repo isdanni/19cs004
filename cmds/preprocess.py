@@ -9,6 +9,14 @@ def get_net_loc(topo, source_path):
         FILE(Path(topo).read_text())
     )
 
+def check_logs(topo, source_path):
+    Path(source_path).write_text(
+	if not topo:
+	    print("Jump...")
+	    continue
+        FILE(Path(topo).read_text())
+    )
+
 def main():
     topo = Path(os.environ['test_tk.json'])
     sr = PRE_REGEX + '*.json'

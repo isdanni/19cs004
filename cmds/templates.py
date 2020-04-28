@@ -9,7 +9,4 @@ currently not applied for the set up
 REFERENCE ONLY
 
 ===============================
-TO DO: 
-1. add BC paras.
 """
-
